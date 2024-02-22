@@ -63,12 +63,7 @@ footer {
   font-family: "Quicksand", sans-serif;
 }
 
-@media (max-width:680px){
-  .container{
-    position:fixed;
-    width:100%;
-  } 
-    
+@media (max-width:680px){  
   h1{
     font-size: 1.8rem;
     font-family: "Quicksand", sans-serif;
