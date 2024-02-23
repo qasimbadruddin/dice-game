@@ -65,8 +65,8 @@ footer {
 @media (max-width:680px){  
   h1{
     font-size: 1.8rem;
-    font-family: "Quicksand", sans-serif;
-    text-align: center;
+    
+font-family: "Teko", sans-serif;    text-align: center;
     }
   }
   
