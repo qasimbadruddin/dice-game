@@ -53,11 +53,12 @@ img {
 }
 
 footer {
-  margin-top: 5%;
-  margin-bottom: 0%;
+  width: 100%;
   color: #7A3E3E;
+  position: absolute;
+  bottom: 0%;
+  font-size: larger;
   text-shadow: 1px 0 #AD8B73;
-  font-size: 35px;
   text-align: center;
   font-family: "Playfair Display", serif;
 }
