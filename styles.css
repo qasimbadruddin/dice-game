@@ -71,16 +71,6 @@ footer {
     }
   }
   
-  footer{
-    position:fixed;
-    bottom:0;
-    left:0;
-    font-size:large;
-    text-align:center;
-    width:100%;
-    margin-bottom:4%;
-  }
-  
   p{
     font-size:x-large;
   }
